@@ -1,0 +1,36 @@
+[
+  {
+    "id": "Netflix",
+    "name": "Netflix Collections",
+    "category": "Streaming Services",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundImageURL": "https://i.postimg.cc/LsyD3yC5/Netflix.jpg",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": "DisneyPlus",
+    "name": "Disney+ Collections",
+    "category": "Streaming Services",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundImageURL": "https://i.postimg.cc/HxRtfrCC/Disney.jpg",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  }
+]
