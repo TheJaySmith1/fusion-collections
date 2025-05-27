@@ -1,8 +1,8 @@
 [
   {
     "id": "Netflix",
-    "name": "Streaming Collections",
-    "category": "Collections",
+    "name": "Netflix Collections",
+    "category": "Streaming Services",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
@@ -19,7 +19,7 @@
   {
     "id": "DisneyPlus",
     "name": "Disney+ Collections",
-    "category": "Collections",
+    "category": "Streaming Services",
     "catalogIds": [],
     "displayMode": "Grid",
     "layout": "Landscape",
