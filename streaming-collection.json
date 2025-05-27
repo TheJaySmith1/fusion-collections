@@ -32,5 +32,22 @@
     "textWeight": "Bold",
     "textColor": "#FFFFFF",
     "backgroundColor": "#000000"
+  },
+  {
+    "id": "HBOMax",
+    "name": "HBO Max Collections",
+    "category": "Streaming Services",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundImageURL": "https://i.postimg.cc/J0GBngQG/temp-Image2-H6y-GT.avif",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
   }
 ]
