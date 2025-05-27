@@ -1,0 +1,48 @@
+[
+  {
+    "id": "007",
+    "name": "Streaming Collections",
+    "category": "Collections",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/caesarius/20250512_2110_Cinematic%20Tuxedo%20Poster_remix_01jv2yd0kyfvt83j7q9kzpway4.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000",
+    "children": [
+      {
+        "id": "netflix",
+        "name": "Netflix",
+        "backgroundImageURL": "https://i.postimg.cc/LsyD3yC5/Netflix.jpg",
+        "iconName": "tv",
+        "mediaTypeFilter": "All Content",
+        "textColor": "#E50914",
+        "layout": "Landscape"
+      },
+      {
+        "id": "disneyplus",
+        "name": "Disney+",
+        "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/disney/disney-bg.png",
+        "iconName": "magic",
+        "mediaTypeFilter": "All Content",
+        "textColor": "#113CCF",
+        "layout": "Landscape"
+      },
+      {
+        "id": "hbomax",
+        "name": "HBO Max",
+        "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/hbo/hbomax-bg.png",
+        "iconName": "film",
+        "mediaTypeFilter": "All Content",
+        "textColor": "#9266CC",
+        "layout": "Landscape"
+      }
+    ]
+  }
+]
