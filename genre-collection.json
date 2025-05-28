@@ -1,0 +1,18 @@
+[
+    {
+        "id": "Action",
+        "name": "Action",
+        "category": "Genre",
+        "catalogIds":[],
+        "displayMode": "Grid",
+        "layout": "Landscape",
+        "backgroundImageURL": "https://i.postimg.cc/BZxKCNbj/Action.jpg",
+        "iconName": "film",
+        "showIcon": false,
+        "nameDisplayMode": "Hidden",
+        "mediaTypeFilter": "All Content",
+        "textSize": "Large",
+        "textColor": "#FFFFFF",
+        "textBackgroundColor": "#000000"
+    }
+]
